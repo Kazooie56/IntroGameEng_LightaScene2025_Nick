@@ -10749,7 +10749,7 @@ PrefabInstance:
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
       propertyPath: m_Animations.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
@@ -31922,7 +31922,7 @@ PrefabInstance:
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
       propertyPath: m_Animations.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
@@ -32726,11 +32726,16 @@ PrefabInstance:
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
       propertyPath: m_Animations.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
       propertyPath: 'm_Animations.Array.data[0]'
+      value: 
+      objectReference: {fileID: 7400000, guid: 9950bde5f699c8c4fbb6700d7bd7a31e, type: 2}
+    - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
+        type: 3}
+      propertyPath: 'm_Animations.Array.data[1]'
       value: 
       objectReference: {fileID: 7400000, guid: 71897c53a0ccc154ab4853cf77d76ec7, type: 2}
     m_RemovedComponents: []
@@ -33278,7 +33283,7 @@ PrefabInstance:
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
       propertyPath: m_Animations.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
@@ -37499,7 +37504,7 @@ PrefabInstance:
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
       propertyPath: m_Animations.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6145175313765890594, guid: b44e323cf8a26024baad1aa938985055,
         type: 3}
